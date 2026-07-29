@@ -1,5 +1,5 @@
 import os
-print("\n===== 迅速科技两轮车_上位机123 =====\n")  # 优先打印你的信息
+print("\n===== 迅速科技两轮车_上位机123456 =====\n")  # 优先打印你的信息
 os.environ["PYGAME_HIDE_SUPPORT_PROMPT"] = "1"  # 禁用欢迎信息
 import pygame
 import serial
